@@ -1,0 +1,153 @@
+html {
+    background:linear-gradient(0.25turn, #E0FFFF, blue, #E0FFFF) ;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    border: 5px solid black;
+    width: 500px;
+    margin-left: 370px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size:large;
+    background-color: linear-gradient(down, blue, #000080);
+    border-radius: 8px;
+    font-size: larger;
+}
+
+#about-me-link {
+    padding: 10px;
+}
+
+#about-you-link {
+    padding: 10px;
+}
+
+#social-media-link {
+    padding: 10px;
+}
+
+#pictures-link {
+    padding: 10px;
+}
+
+#about-me {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    margin-top: -20px;
+}
+
+#header-2 {
+    display: flex;
+    justify-content: center;
+    font-family:sans-serif;
+}
+
+#get-to-know-me {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+}
+
+#hobbies {
+    display: flex;
+    justify-content: center;
+}
+
+#hobbies-txt {
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    margin-left: 150px;
+}
+
+#music-notes {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+img {
+    border-radius: 8px;
+}
+
+#fieldset {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 235px;
+    margin-top: 130px;
+    width: 600px;
+    border-width: 10px;
+    border-radius: 5px;
+}
+
+#email {
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+#comments {
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+#email-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#name {
+    border-radius: 5px;
+}
+
+#button {
+    margin-left: 8px;
+    margin-right: 7px;
+}
+
+#socialmedia {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    margin-left: -20px;
+}
+
+#social-media {
+    display: flex;
+    justify-content: center;
+}
+
+#app-academy-logo {
+    display: flex;
+    justify-content: center;
+}
+
+#dog-picture {
+    margin-left: 95px;
+    margin-bottom: -188px;
+    margin-top: -188px;
+}
+
+#guitar-picture {
+    margin-left: 900px;
+}
